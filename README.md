@@ -1,4 +1,4 @@
-# Análisis Exploratorio y Economía de la Movilidad Urbana
+# Analisis Exploratorio y Economía de la Movilidad Urbana
 
 ## Contexto y Objetivo del Proyecto
 Evaluar los patrones de desplazamiento, costos operativos y eficiencia del transporte urbano mediante análisis exploratorio de datos (EDA). El objetivo es identificar cuellos de botella, variaciones tarifarias y oportunidades de optimización logística para mejorar la rentabilidad y el flujo de movilidad.
